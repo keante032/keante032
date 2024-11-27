@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @keante032.
 - 👀 I’m interested in how Bitcoin can change the world.
-- 🌱 I recently completed Springboard's Software Engineering Career Track.
 - 📫 Reach me at templeton.kevin@gmail.com.
